@@ -1,0 +1,17 @@
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\bin\Debug\net8.0-windows\urna.exe
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\bin\Debug\net8.0-windows\urna.deps.json
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\bin\Debug\net8.0-windows\urna.runtimeconfig.json
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\bin\Debug\net8.0-windows\urna.dll
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\bin\Debug\net8.0-windows\urna.pdb
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\obj\Debug\net8.0-windows\urna.Form1.resources
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\obj\Debug\net8.0-windows\urna.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\obj\Debug\net8.0-windows\urna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\obj\Debug\net8.0-windows\urna.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\obj\Debug\net8.0-windows\urna.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\obj\Debug\net8.0-windows\urna.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\obj\Debug\net8.0-windows\urna.dll
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\obj\Debug\net8.0-windows\refint\urna.dll
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\obj\Debug\net8.0-windows\urna.pdb
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\obj\Debug\net8.0-windows\urna.genruntimeconfig.cache
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\obj\Debug\net8.0-windows\ref\urna.dll
+C:\Users\Kevin\Desktop\Nova pasta\urna\urna\obj\Debug\net8.0-windows\urna.Properties.Resources.resources
